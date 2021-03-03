@@ -2,13 +2,14 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	outline-color: transparent;
 }
 
 :root {
 	--white: #FFF;
-	--background: #F2F3F5;
+	/* --background: #F2F3F5; */
 	--gray-line: #DCDDE0;
-	--text: #666666;
+	/* --text: #666666; */
 	--text-highligh: #B3B9FF;
 	--title: #2E384D;
 	--red: #E83F5B;
